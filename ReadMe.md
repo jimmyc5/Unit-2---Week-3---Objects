@@ -29,7 +29,7 @@ https://docs.unity3d.com/Manual/Lights.html
 1. Open "First Person Scene"
 2. Create a hallway with a floor, walls, and a roof
 3. Create a room at the end of the hallway (try to do this *efficiently*)
-4. Make a stack of boxes at the end of the hallway, such that your player has to smash through  them, Kool-Aid Man-style
+4. Make a stack of boxes at the end of the hallway, such that your player has to smash through them, Kool-Aid Man-style
 5. Build a swinging pendulum that does the same
 
 NOTE: Your player uses standard keyboard FPS controls, which are as follows:
@@ -45,7 +45,7 @@ NOTE: Your player uses standard keyboard FPS controls, which are as follows:
 ### Bowser
 <img src="https://user-images.githubusercontent.com/7291792/187090817-9c0523ad-2e40-4760-8f93-b92516b64b7f.png" width=200/>
 A game designer sends you an email for a game element with this story: 
-Your character walks down a long hallway into a room. They see shadows on the walls in the room. On the floor is text telling them to "stand here" and a dot on the floor. When they stand there, the shadows resolve into text that gives them a clue to a puzzle on how to leave the room.
+Your character walks down a long hallway into a room. They see shadows on the walls in the room. On the floor is text telling them to "stand here" and a dot or "X" marking the spot. And then, when they stand on the marked spot, it triggers an event: the shadows disperse and resolve into text that gives them a clue to a puzzle on how to leave the room.
 <br/><br/>
 
 Assets: use the provided 3D Text models in Assets > Art > 3D Models as your text object(s)
